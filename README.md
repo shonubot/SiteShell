@@ -1,4 +1,4 @@
-# Webcrate
+# SiteShell
 
 Turn any website into a native Linux desktop app — powered by Python, PyWebView, and Qt.
 
@@ -17,8 +17,8 @@ Turn any website into a native Linux desktop app — powered by Python, PyWebVie
 #### 1. Clone this repository
 
 ```bash
-https://github.com/shonubot/Webcrate.git
-cd Webcrate
+https://github.com/shonubot/SiteShell.git
+cd SiteShell
 ```
 
 #### 2. Make the scripts executable

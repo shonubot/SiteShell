@@ -17,8 +17,8 @@ Turn any website into a native Linux desktop app — powered by Python, PyWebVie
 #### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/webcrate.git
-cd webcrate
+https://github.com/shonubot/Webcrate.git
+cd Webcrate
 ```
 
 #### 2. Make the scripts executable

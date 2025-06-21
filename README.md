@@ -7,7 +7,7 @@ Turn any website into a native Linux desktop app — powered by Python, PyWebVie
 ### Features
 
 - Create standalone apps for your favorite websites
-- Adds app to GNOME launcher menu with `.desktop` support
+- Adds app to GNOME/KDE launcher menu with `.desktop` support
 - Comes with an uninstaller script
 
 ---
